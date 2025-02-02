@@ -1,31 +1,32 @@
-# [Project Name] 🎯
+# [Cycle diet] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [Squad dairies]
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: [Aaliya lal] - [College of engineering pathanapuram]
+- Member 2: [Anha fathima A.S] - [College of engineering pathanapuram]
+- Member 3: [Hizana fathima.n ] - [College of engineering pathanapuram]
 
 ### Hosted Project Link
-[mention your project hosted project link here]
+[cycletact-putk.vercel.app]
 
 ### Project Description
-[2-3 lines about what your project does]
+[discover personalized meal plans and recipies that align perfectly with your menstural cycle phases.
+it helps to get the latest nutrition tips and recipies and empowering women through cycle-synced nutrition.]
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
+[many individuals struggle with finding a balanced healthy deit.factors such as lifestyle,dietry preferences and health condition including hormonal changes during menstural cycle.]
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+[gives a healthy diet plan website that provide personalized meal plans,nutritional guidence and cycle based  dietry recomendations to healp individuals.]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
+- [html,css,java script]
 - [Frameworks used]
 - [Libraries used]
 - [Tools used]
