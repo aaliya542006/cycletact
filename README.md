@@ -1,4 +1,4 @@
-# [Cycle diet] 🎯
+# [Cycle Tact] 🎯
 
 
 ## Basic Details
